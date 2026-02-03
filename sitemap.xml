@@ -10,10 +10,16 @@
     <loc>https://carpentries-incubator.github.io/pixi-introduction/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://carpentries-incubator.github.io/pixi-introduction/aio.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries-incubator.github.io/pixi-introduction/backwards-compatibility.html</loc>
   </url>
   <url>
     <loc>https://carpentries-incubator.github.io/pixi-introduction/citation.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/pixi-introduction/images.html</loc>
   </url>
   <url>
     <loc>https://carpentries-incubator.github.io/pixi-introduction/index.html</loc>
@@ -28,16 +34,28 @@
     <loc>https://carpentries-incubator.github.io/pixi-introduction/instructor/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://carpentries-incubator.github.io/pixi-introduction/instructor/aio.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries-incubator.github.io/pixi-introduction/instructor/backwards-compatibility.html</loc>
   </url>
   <url>
     <loc>https://carpentries-incubator.github.io/pixi-introduction/instructor/citation.html</loc>
   </url>
   <url>
+    <loc>https://carpentries-incubator.github.io/pixi-introduction/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries-incubator.github.io/pixi-introduction/instructor/index.html</loc>
   </url>
   <url>
+    <loc>https://carpentries-incubator.github.io/pixi-introduction/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries-incubator.github.io/pixi-introduction/instructor/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/pixi-introduction/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://carpentries-incubator.github.io/pixi-introduction/instructor/pixi-intro.html</loc>
@@ -46,7 +64,13 @@
     <loc>https://carpentries-incubator.github.io/pixi-introduction/instructor/profiles.html</loc>
   </url>
   <url>
+    <loc>https://carpentries-incubator.github.io/pixi-introduction/instructor-notes.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries-incubator.github.io/pixi-introduction/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/pixi-introduction/key-points.html</loc>
   </url>
   <url>
     <loc>https://carpentries-incubator.github.io/pixi-introduction/pixi-intro.html</loc>
